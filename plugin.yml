@@ -1,0 +1,8 @@
+name: MysticChat
+main: net.mysticcloud.spigot.chat.Main
+version: 1.0.0
+author: QuickScythe
+description: Chat plugin for MysticCloud
+commands:
+  staffchat:
+    aliases: ["sc"]
